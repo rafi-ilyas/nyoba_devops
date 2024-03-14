@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: rafi-ilyas/websiteramadhan:latest
+          tags: rafi1212/nyoba_devops
